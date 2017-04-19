@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: 33fca13fb834d944e9cd664f6e826cca
+timeCreated: 1489064338
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PanelBackRectDark 1_1
+    21300002: PanelBackRectDark 1_2
+    21300004: PanelBackRectDark 1_3
+    21300006: PanelBackRectDark 1_4
+    21300008: PanelBackRectDark 1_5
+    21300010: PanelBackRectDark 1_6
+    21300012: PanelBackRectDark 1_7
+    21300014: PanelBackRectDark 1_8
+    21300016: PanelBackRectDark 1_9
+    21300018: PanelBackRectDark 1_11
+    21300020: PanelBackRectDark 1_13
+    21300022: PanelBackRectDark 1_15
+    21300024: PanelBackRectDark 1_17
+    21300026: PanelBackRectDark 1_19
+    21300028: PanelBackRectDark 1_21
+    21300030: PanelBackRectDark 1_23
+    21300032: PanelBackRectDark 1_25
+    21300034: PanelBackRectDark 1_27
+    21300036: PanelBackRectDark 1_28
+    21300038: PanelBackRectDark 1_29
+    21300040: PanelBackRectDark 1_30
+    21300042: PanelBackRectDark 1_31
+    21300044: PanelBackRectDark 1_32
+    21300046: PanelBackRectDark 1_33
+    21300048: PanelBackRectDark 1_34
+    21300050: PanelBackRectDark 1_35
+    21300052: PanelBackRectDark 1_0
+    21300054: PanelBackRectDark 1_10
+    21300056: PanelBackRectDark 1_12
+    21300058: PanelBackRectDark 1_14
+    21300060: PanelBackRectDark 1_16
+    21300062: PanelBackRectDark 1_18
+    21300064: PanelBackRectDark 1_20
+    21300066: PanelBackRectDark 1_22
+    21300068: PanelBackRectDark 1_24
+    21300070: PanelBackRectDark 1_26
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 990, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PanelBackRectDark 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1004
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PanelBackRectDark 1_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 962
+        height: 503
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
